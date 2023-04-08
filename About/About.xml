@@ -14,13 +14,13 @@ Also including personal balance patches in the future, after I figured out condi
 This release includes assets ripped from other people without their consent - so for now this is purely meant for personal use!
 </description>
 <loadAfter>
-    <li>VanillaExpanded.VTEXE</li>
-    <li>Steve.RimlordArmor</li>
+    	<li>VanillaExpanded.VTEXE</li>
+    	<li>Steve.RimlordArmor</li>
 	<li>Ludeon.RimWorld.Biotech</li>
-    <li>Ludeon.RimWorld.Ideology</li>
-    <li>Ludeon.RimWorld.Royalty</li>
-    <li>Ludeon.RimWorld</li>
-    <li>brrainz.harmony</li>
+    	<li>Ludeon.RimWorld.Ideology</li>
+    	<li>Ludeon.RimWorld.Royalty</li>
+    	<li>Ludeon.RimWorld</li>
+    	<li>brrainz.harmony</li>
 </loadAfter>
 <modDependencies>
     <li>
