@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T16:41:51.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="P4pgH5s8vVxfuryWfgV0" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T16:55:49.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="9jKIh0tfkSYggfSifLk2" version="21.5.0" type="github">
   <diagram name="Page-1" id="KWzewiNtHVKbTdVzmJEv">
     <mxGraphModel dx="2432" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -414,8 +414,14 @@
         <mxCell id="eQuGEwlXQWY68dL_tK8g-4" value="Modern Clothing" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="700" y="-30" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3F20SIg9MuOL7U1kAyho-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="eQuGEwlXQWY68dL_tK8g-5" target="3F20SIg9MuOL7U1kAyho-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eQuGEwlXQWY68dL_tK8g-5" value="Spacer Clothing" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="1850" y="-30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3F20SIg9MuOL7U1kAyho-2" value="Gunlink" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
