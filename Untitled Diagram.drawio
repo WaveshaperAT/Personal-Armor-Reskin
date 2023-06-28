@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T19:17:10.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="K5wFpnps_MfjXAL4Ueq1" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T19:54:16.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="oDD6b_OEVInSzHgPtbM2" version="21.5.0" type="github">
   <diagram name="Page-1" id="KWzewiNtHVKbTdVzmJEv">
     <mxGraphModel dx="5143" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
           <mxGeometry x="-1350" y="1380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUZkN_r-hM8I51EaVFaq-39" target="RUZkN_r-hM8I51EaVFaq-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUZkN_r-hM8I51EaVFaq-39" target="ZY5G_8CR-_nnytg-0bit-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUZkN_r-hM8I51EaVFaq-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tree Sowing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -415,10 +418,10 @@
           <mxGeometry x="400" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Wake-Up Production&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1700" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Go-Juice Production&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1860" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Biofuel Refining&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1120" y="890" width="120" height="60" as="geometry" />
@@ -448,7 +451,7 @@
           <mxGeometry x="1620" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hydroponics&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1880" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-90" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tube Television&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1500" width="120" height="60" as="geometry" />
@@ -484,7 +487,7 @@
           <mxGeometry x="1240" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-109" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gas Operation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1810" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-110" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Blowback Operatiion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1060" width="120" height="60" as="geometry" />
@@ -499,7 +502,7 @@
           <mxGeometry x="1600" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-114" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IEDs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-116" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Geothermal Power&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2070" y="950" width="120" height="60" as="geometry" />
@@ -512,6 +515,63 @@
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-119" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Prosthetics&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1530" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-122" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Flatscreen Televisions&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-123" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Moisture Pump&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-125" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hospital Beds&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-126" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Deep Drilling&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-127" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Transport Pod&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-128" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Medicine Production&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-129" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Long-Range Mineral Scanner&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-130" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Shields&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-132" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Precision Rifling&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Autocannon Turret&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Multibarrel Weapons&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-135" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Multi-Analyzer&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-136" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Viitals Monitor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-137" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fabrication&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-138" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Advanced Fabrication&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-139" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Uranium Slug Turret&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-140" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Piano&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-141" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Jump-Packs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-142" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gunlink&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
