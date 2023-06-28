@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T19:02:36.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="B9Ol2HdU7CZvtlVaIsQs" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T19:17:10.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="K5wFpnps_MfjXAL4Ueq1" version="21.5.0" type="github">
   <diagram name="Page-1" id="KWzewiNtHVKbTdVzmJEv">
-    <mxGraphModel dx="4554" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="5143" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2xx0OkPRmbRjkBTVt8xA-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;NEOLITHIC&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="-1480" y="20" width="1480" height="1600" as="geometry" />
+          <mxGeometry x="-1480" y="20" width="1480" height="1980" as="geometry" />
         </mxCell>
         <mxCell id="2xx0OkPRmbRjkBTVt8xA-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MEDIEVAL&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry y="20" width="1100" height="1600" as="geometry" />
+          <mxGeometry y="20" width="1100" height="1980" as="geometry" />
         </mxCell>
         <mxCell id="RUZkN_r-hM8I51EaVFaq-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;INDUSTRIAL&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="20" width="2670" height="1600" as="geometry" />
+          <mxGeometry x="1100" y="20" width="2670" height="1980" as="geometry" />
         </mxCell>
         <mxCell id="RUZkN_r-hM8I51EaVFaq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUZkN_r-hM8I51EaVFaq-29" target="RUZkN_r-hM8I51EaVFaq-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -259,9 +259,6 @@
         <mxCell id="RUZkN_r-hM8I51EaVFaq-120" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Primitive Furniture&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="-880" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZY5G_8CR-_nnytg-0bit-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUZkN_r-hM8I51EaVFaq-121" target="ZY5G_8CR-_nnytg-0bit-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RUZkN_r-hM8I51EaVFaq-121" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Passive Cooler&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
           <mxGeometry x="-470" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -286,7 +283,10 @@
         <mxCell id="ZY5G_8CR-_nnytg-0bit-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Long Blades&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZY5G_8CR-_nnytg-0bit-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-4" target="ZY5G_8CR-_nnytg-0bit-22">
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-4" target="ZY5G_8CR-_nnytg-0bit-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-4" target="ZY5G_8CR-_nnytg-0bit-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Plate Armor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -304,10 +304,8 @@
         <mxCell id="ZY5G_8CR-_nnytg-0bit-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-14" target="ZY5G_8CR-_nnytg-0bit-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZY5G_8CR-_nnytg-0bit-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-14" target="ZY5G_8CR-_nnytg-0bit-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="690" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-14" target="ZY5G_8CR-_nnytg-0bit-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Noble Apparel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="550" width="120" height="60" as="geometry" />
@@ -325,16 +323,16 @@
           <mxGeometry x="800" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Royal Armor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="800" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-25" target="ZY5G_8CR-_nnytg-0bit-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZY5G_8CR-_nnytg-0bit-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-25" target="ZY5G_8CR-_nnytg-0bit-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PreIndustrial Warfare&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="800" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-28" target="ZY5G_8CR-_nnytg-0bit-104">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Medieval Siege Weapons&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="640" y="1150" width="120" height="60" as="geometry" />
@@ -345,11 +343,8 @@
         <mxCell id="ZY5G_8CR-_nnytg-0bit-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-30" target="ZY5G_8CR-_nnytg-0bit-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZY5G_8CR-_nnytg-0bit-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-30" target="ZY5G_8CR-_nnytg-0bit-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Electricity&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="1240" y="720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-31" target="ZY5G_8CR-_nnytg-0bit-49">
           <mxGeometry relative="1" as="geometry" />
@@ -357,8 +352,17 @@
         <mxCell id="ZY5G_8CR-_nnytg-0bit-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-31" target="ZY5G_8CR-_nnytg-0bit-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-31" target="ZY5G_8CR-_nnytg-0bit-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-31" target="ZY5G_8CR-_nnytg-0bit-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-31" target="ZY5G_8CR-_nnytg-0bit-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Machining&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="960" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="960" y="720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-38" target="ZY5G_8CR-_nnytg-0bit-40">
           <mxGeometry relative="1" as="geometry" />
@@ -416,41 +420,38 @@
         <mxCell id="ZY5G_8CR-_nnytg-0bit-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Go-Juice Production&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1380" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZY5G_8CR-_nnytg-0bit-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-69" target="ZY5G_8CR-_nnytg-0bit-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Biofuel Refining&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-70" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Battery&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-71" target="ZY5G_8CR-_nnytg-0bit-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-71" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Watermill Generator&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Solar Panel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1880" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-73" target="ZY5G_8CR-_nnytg-0bit-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Improved Living Conditions&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Air Conditioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Auto Door&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1620" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hydroponics&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1370" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-90" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tube Television&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1480" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-91" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Nutrient Paste&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1880" y="395" width="120" height="60" as="geometry" />
@@ -469,6 +470,48 @@
         </mxCell>
         <mxCell id="ZY5G_8CR-_nnytg-0bit-95" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Packaged Survival Meal&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1650" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-100" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Flak Armor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-104" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Mortars&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZY5G_8CR-_nnytg-0bit-105" target="ZY5G_8CR-_nnytg-0bit-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gunsmithing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-109" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gas Operation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-110" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Blowback Operatiion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gun Turret&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Microelectronics&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Firefoam&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-114" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IEDs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-116" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Geothermal Power&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-117" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Advanced Lights&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-118" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Smokepop Packs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY5G_8CR-_nnytg-0bit-119" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Prosthetics&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
